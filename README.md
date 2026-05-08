@@ -66,7 +66,7 @@ print(df.head())
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
 | makeit.recipes    | available | $11.99    | —             | 82             | 22     | 7      | name.com        |
 | saveup.shop       | resell    | —         | —             | 78             | 5      | 7      | Turingsign Inc. |
-| quote.shop        | premium   | $1,250    | —             | 82             | 31     | 5      | name.com        |
+| quote.shop        | premium   | $1,250    | —             | 82             | 30     | 5      | name.com        |
 | makeit.ong        | available | $16.99    | —             | 82             | 22     | 7      | name.com        |
 | popup.locker      | premium   | $1,250    | —             | 84             | 29     | 6      | name.com        |
 | makeit.healthcare | available | $91.99    | —             | 82             | 22     | 7      | name.com        |
