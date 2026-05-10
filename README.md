@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| makeit.recipes    | available | $11.99    | —             | 82             | 22     | 7      | name.com        |
-| saveup.shop       | resell    | —         | —             | 78             | 5      | 7      | Turingsign Inc. |
-| quote.shop        | premium   | $1,250    | —             | 82             | 30     | 5      | name.com        |
-| makeit.ong        | available | $16.99    | —             | 82             | 22     | 7      | name.com        |
-| popup.locker      | premium   | $1,250    | —             | 84             | 29     | 6      | name.com        |
-| makeit.healthcare | available | $91.99    | —             | 82             | 22     | 7      | name.com        |
-| engine.shop       | premium   | $1,250    | —             | 76             | 29     | 6      | name.com        |
-| stepup.llc        | available | $19.99    | —             | 78             | 19     | 7      | name.com        |
-| makeit.win        | premium   | $437.50   | —             | 82             | 22     | 7      | name.com        |
-| stepup.living     | available | $39.99    | —             | 78             | 19     | 7      | name.com        |
-| makeit.accountant | premium   | $437.50   | —             | 82             | 22     | 7      | name.com        |
-| gobeyond.graphics | available | $31.98    | —             | 76             | 18     | 9      | namecheap       |
-| gearup.art        | premium   | $153.75   | —             | 80             | 16     | 7      | name.com        |
-| goviral.phd       | available | $26.99    | —             | 76             | 17     | 8      | name.com        |
-| takeout.mobile    | premium   | $375      | —             | 75             | 16     | 8      | name.com        |
-| takeout.dating    | available | $23.99    | —             | 75             | 16     | 8      | name.com        |
-| hangover.store    | premium   | $312.50   | —             | 62             | 12     | 9      | name.com        |
-| makesense.osaka   | available | $39.99    | —             | 82             | 14     | 10     | name.com        |
-| reston.link       | premium   | $246.75   | $329          | 75             | 10     | 7      | namecheap       |
-| makesense.fish    | available | $19.99    | —             | 82             | 14     | 10     | name.com        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                     |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------------------- |
+| makeit.recipes    | available | $11.99    | —             | 82             | 22     | 7      | name.com                      |
+| something.in      | resell    | —         | —             | 86             | 25     | 9      | Costrar EOOD                  |
+| quote.shop        | premium   | $1,250    | —             | 82             | 30     | 5      | name.com                      |
+| makeit.ong        | available | $16.99    | —             | 82             | 22     | 7      | name.com                      |
+| brighten.xyz      | resell    | —         | —             | 80             | 10     | 8      | West263 International Limited |
+| popup.locker      | premium   | $1,250    | —             | 84             | 29     | 6      | name.com                      |
+| makeit.healthcare | available | $91.99    | —             | 82             | 22     | 7      | name.com                      |
+| saveup.shop       | resell    | —         | —             | 78             | 5      | 7      | Turingsign Inc.               |
+| engine.shop       | premium   | $1,250    | —             | 76             | 29     | 6      | name.com                      |
+| stepup.llc        | available | $19.99    | —             | 78             | 19     | 7      | name.com                      |
+| makeit.win        | premium   | $437.50   | —             | 82             | 22     | 7      | name.com                      |
+| stepup.living     | available | $39.99    | —             | 78             | 19     | 7      | name.com                      |
+| makeit.accountant | premium   | $437.50   | —             | 82             | 22     | 7      | name.com                      |
+| gobeyond.graphics | available | $31.98    | —             | 76             | 18     | 9      | namecheap                     |
+| gearup.art        | premium   | $153.75   | —             | 80             | 16     | 7      | name.com                      |
+| goviral.phd       | available | $26.99    | —             | 76             | 17     | 8      | name.com                      |
+| takeout.mobile    | premium   | $375      | —             | 75             | 16     | 8      | name.com                      |
+| takeout.dating    | available | $23.99    | —             | 75             | 16     | 8      | name.com                      |
+| hangover.store    | premium   | $312.50   | —             | 62             | 12     | 9      | name.com                      |
+| makesense.osaka   | available | $39.99    | —             | 82             | 14     | 10     | name.com                      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
