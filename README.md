@@ -1,29 +1,29 @@
-# One-Word Verb Domains (1,130,624)
+# Available One-Word Verb Domains (1,130,739)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C130%2C624%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C130%2C739%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-These domains are one-word verb-led names across 505 TLDs. Updated daily, this selection includes 1,129,095 domains with a median ask of 376.36. Focus on clarity, renewal fit, and trademark exposure when comparing them.
+This selection covers 1,130,704 available one-word verb domains spanning 506 TLDs, with a median ask of $279.65. Most names fall under $500, and .expert, .ninja, .zone, .gg, and .space carry the deepest inventory. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,130,624 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,130,739 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,130,624 domains · **Median ask:** $284.38 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 1,130,739 domains · **Median ask:** $277.60 · **High-demand under $2,500:** 1,805
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/actionnable`  
+**Last updated:** 2026-08-09
+**Canonical page:** `https://unique.domains/domains/actionable`
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/actionnable?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/actionable?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./actionnable.csv">CSV</a> / <a href="./actionnable.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,25 +31,25 @@ These domains are one-word verb-led names across 505 TLDs. Updated daily, this s
 
 ---
 
-➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/actionnable?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/actionnable?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/actionable?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/actionable?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/actionnable`.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/actionable`.
 
 ### Files
 
-- `actionnable.csv` — public CSV extract (1,000 rows)
-- `actionnable.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `actionnable.csv`, public CSV extract (1,000 rows)
+- `actionnable.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| guess.rest     | available | $19.99    | —             | 100            | 70     | 5      | name.com                                                           |
-| sports.theater | resell    | $80.98    | —             | 110            | 47     | 6      | Dynadot Inc                                                        |
-| match.trade    | premium   | $6,250    | —             | 102            | 65     | 5      | name.com                                                           |
-| platform.salon | available | $14.99    | —             | 92             | 48     | 8      | name.com                                                           |
-| loot.ninja     | resell    | —         | —             | 86             | 100    | 4      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
-| office.degree  | premium   | $242      | $242          | 100            | 59     | 6      | namesilo                                                           |
-| void.green     | available | $11.99    | —             | 112            | 47     | 4      | name.com                                                           |
-| cloak.xyz      | resell    | —         | —             | 86             | 96     | 5      | Go Daddy, LLC                                                      |
-| email.prof     | premium   | $1,623.75 | —             | 106            | 57     | 6      | name.com                                                           |
-| join.sex       | available | $154.98   | —             | 74             | 44     | 4      | namecheap                                                          |
-| method.pro     | resell    | —         | —             | 94             | 92     | 6      | GKG.NET, INC.                                                      |
-| buy.salon      | premium   | $82.50    | —             | 106            | 54     | 3      | name.com                                                           |
-| wizard.taxi    | available | $10.99    | $84.99        | 118            | 43     | 6      | name.com                                                           |
-| compassion.xyz | resell    | —         | —             | 90             | 92     | 10     | Sav.com, LLC                                                       |
-| ink.vet        | premium   | $78.54    | $78.54        | 94             | 51     | 3      | namesilo                                                           |
-| move.democrat  | available | $9.99     | —             | 109            | 42     | 4      | name.com                                                           |
-| roost.org      | resell    | —         | —             | 86             | 88     | 5      | NameCheap, Inc.                                                    |
-| ink.bike       | premium   | $78.54    | $78.54        | 94             | 51     | 3      | namesilo                                                           |
-| ship.auto      | available | $1,999.99 | $2,199        | 90             | 39     | 4      | namesilo                                                           |
-| parasol.ai     | resell    | —         | —             | 80             | 88     | 7      | Dynadot Inc                                                        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| cry.flowers    | available | $159.98   | —             | high           | low    | 3      | namecheap        |
+| sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc      |
+| buy.salon      | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo         |
+| cut.cheap      | available | $9.99     | $46.99        | high           | low    | 3      | name.com         |
+| bib.net        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc      |
+| err.rsvp       | premium   | $73.75    | —             | high           | low    | 3      | name.com         |
+| gag.guitars    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo         |
+| bot.insure     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| fee.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
+| lap.protection | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo         |
+| fun.technology | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
+| gag.luxe       | premium   | $854      | $17.70        | high           | low    | 3      | namesilo         |
+| msg.education  | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| bash.wtf       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| ink.bike       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| msg.mom        | available | $1.99     | —             | high           | low    | 3      | name.com         |
+| easy.direct    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| ink.vet        | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
+| pan.gives      | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| flit.ai        | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,39 +93,39 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,130,624 live domains                     |
+| 1,000-row public sample | 1,130,739 live domains                     |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1,805 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/actionnable?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/actionnable?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/actionable?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/actionable?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is built around one-word verb domains, which tend to read as active, direct, and brandable. The set spans 505 TLDs and includes examples such as headline.global, motion.coach, vantage.store, solo.engineering, and exact.id. For founders, the main question is whether the verb is memorable, easy to say, and credible on its extension. For investors, the key is whether the ask leaves room for a realistic spread after renewal and holding costs. Review each name for extension fit, commercial clarity, and obvious trademark friction, especially when a term appears tied to a well-known brand or narrow niche.
+This is a set of one-word verb domain names — action words like dogsit, letitbe, and cuddleup — paired with hundreds of TLDs from mainstream to niche. Most entries are marked Available now, priced well under $500, though a smaller premium tier lists into the thousands. Demand is concentrated in a narrow slice of names, so comparing price against demand and TLD helps separate everyday picks from standout brandable options.
 
-- Prefer verbs that stay clear and natural on the given TLD
-- Use median ask 376.36 as a rough price reference point
-- Check renewal economics across less familiar extensions
-- Avoid terms with obvious brand or trademark conflict
+- 979,804 domains marked Available across 506 TLDs
+- Median ask $279.65; most names priced under $500
+- Top TLD coverage: .expert, .ninja, .zone, .gg, .space
+- 11,784 names sit in the Top 15% demand tier
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *One-Word Verb Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Verb Domains*. Version 2026-08-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live search](https://unique.domains/domains/actionnable?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/actionable?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_api_docs)
