@@ -1,10 +1,10 @@
-# Available One-Word Verb Domains (1,597,234)
+# Available One-Word Verb Domains (1,623,643)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C597%2C234%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C623%2C643%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 1,130,704 available one-word verb domains spanning 506 TLDs, with a median ask of $279.65. Most names fall under $500, and .expert, .ninja, .zone, .gg, and .space carry the deepest inventory. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,597,234 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,623,643 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,597,234 domains · **Median ask:** $223.46 · **High-demand under $2,500:** 2,206
+**Public extract:** 1,000 rows · **Live catalog:** 1,623,643 domains · **Median ask:** $221.29 · **High-demand under $2,500:** 2,189
 
-**Last updated:** 2026-09-17
+**Last updated:** 2026-09-18
 **Canonical page:** `https://unique.domains/domains/actionable`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc      |
 | buy.salon      | premium   | $78.54    | $78.54        | medium         | medium | 3      | namesilo         |
 | cut.cheap      | available | $9.99     | $46.99        | high           | low    | 3      | name.com         |
-| bib.net        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc      |
+| function.love  | resell    | $38.98    | —             | high           | low    | 8      | namecheap        |
 | err.rsvp       | premium   | $73.75    | —             | high           | low    | 3      | name.com         |
 | gag.guitars    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo         |
-| bot.insure     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| bib.net        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc      |
 | fee.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
 | lap.protection | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo         |
-| fun.technology | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
+| bot.insure     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
 | gag.luxe       | premium   | $854      | $17.70        | high           | low    | 3      | namesilo         |
 | msg.education  | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| bash.wtf       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| fun.technology | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
 | ink.bike       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
 | msg.mom        | available | $1.99     | —             | high           | low    | 3      | name.com         |
-| easy.direct    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
+| bash.wtf       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | ink.vet        | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
 | pan.gives      | available | $5.99     | —             | high           | low    | 3      | name.com         |
-| flit.ai        | resell    | —         | —             | medium         | low    | 4      | Spaceship, Inc.  |
+| easy.direct    | resell    | —         | —             | high           | medium | 4      | Spaceship, Inc.  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 1,597,234 live domains                     |
+| 1,000-row public sample | 1,623,643 live domains                     |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 2,206 high-demand names under $2,500       |
+| Basic exported fields   | 2,189 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Verb Domains*. Version 2026-09-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Verb Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
