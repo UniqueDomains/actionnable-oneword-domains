@@ -16,7 +16,7 @@ This selection covers 1,130,704 available one-word verb domains spanning 506 TLD
 
 **Public extract:** 1,000 rows · **Live catalog:** 1,697,651 domains · **Median ask:** $215.69 · **High-demand under $2,500:** 1,929
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/actionable`
 **Best for:** founders, investors, studios
 
@@ -66,7 +66,7 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | cry.flowers    | available | $159.98   | —             | high           | low    | 3      | namecheap        |
 | sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc      |
-| buy.salon      | premium   | $85.80    | $85.80        | medium         | low    | 3      | namecheap        |
+| buy.salon      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo         |
 | cut.cheap      | available | $9.99     | $46.99        | high           | low    | 3      | name.com         |
 | function.love  | resell    | $38.98    | —             | high           | low    | 8      | namecheap        |
 | err.rsvp       | premium   | $73.75    | —             | high           | low    | 3      | name.com         |
@@ -74,13 +74,13 @@ print(df.head())
 | excursion.pw   | resell    | $3.99     | $24.49        | high           | low    | 9      | namesilo         |
 | fee.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
 | lap.protection | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo         |
-| bib.net        | resell    | —         | —             | high           | high   | 3      | Dynadot Inc      |
+| bib.net        | resell    | —         | —             | low            | low    | 3      | Dynadot Inc      |
 | gag.luxe       | premium   | $854      | $17.70        | high           | low    | 3      | namesilo         |
 | msg.education  | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| bot.insure     | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| bot.insure     | resell    | —         | —             | medium         | low    | 3      | Dynadot Inc      |
 | ink.bike       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
 | msg.mom        | available | $1.99     | —             | high           | low    | 3      | name.com         |
-| fun.technology | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
+| fun.technology | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC     |
 | ink.vet        | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
 | pan.gives      | available | $5.99     | —             | high           | low    | 3      | name.com         |
 | bash.wtf       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Verb Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Verb Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
