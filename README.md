@@ -16,7 +16,7 @@ This selection covers 1,130,704 available one-word verb domains spanning 506 TLD
 
 **Public extract:** 1,000 rows · **Live catalog:** 1,697,651 domains · **Median ask:** $215.69 · **High-demand under $2,500:** 1,929
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 **Canonical page:** `https://unique.domains/domains/actionable`
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| cry.flowers    | available | $159.98   | —             | high           | low    | 3      | namecheap        |
+| boo.pink       | available | $14.99    | —             | high           | low    | 3      | name.com         |
 | sports.theater | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc      |
+| bid.fast       | premium   | $1,107    | $1,107        | high           | low    | 3      | namesilo         |
+| cry.flowers    | available | $159.98   | —             | high           | low    | 3      | namecheap        |
+| function.love  | resell    | $38.98    | —             | high           | low    | 8      | namecheap        |
 | boo.services   | premium   | $140      | $280          | high           | low    | 3      | namecheap        |
 | diy.theatre    | available | $509.99   | $529.99       | high           | low    | 3      | namesilo         |
-| function.love  | resell    | $38.98    | —             | high           | low    | 8      | namecheap        |
-| err.rsvp       | premium   | $73.75    | —             | high           | low    | 3      | name.com         |
-| gag.guitars    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo         |
 | excursion.pw   | resell    | $3.99     | $24.49        | high           | low    | 9      | namesilo         |
-| fee.charity    | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo         |
-| lap.protection | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo         |
+| buy.salon      | premium   | $85.80    | $85.80        | high           | medium | 3      | namecheap        |
+| gag.guitars    | available | $104.99   | $114.99       | high           | low    | 3      | namesilo         |
 | eat.us         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
-| gag.luxe       | premium   | $854      | $17.70        | high           | low    | 3      | namesilo         |
+| err.rsvp       | premium   | $73.75    | —             | high           | low    | 3      | name.com         |
+| lap.protection | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo         |
+| fun.technology | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC     |
+| fee.charity    | premium   | $42.90    | $42.90        | high           | low    | 3      | namecheap        |
 | msg.education  | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| bash.wtf       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
-| gag.sexy       | premium   | $31,250   | —             | high           | low    | 3      | name.com         |
+| gym.city       | resell    | —         | —             | high           | low    | 3      | Spaceship, Inc.  |
+| gag.luxe       | premium   | $854      | $17.70        | high           | low    | 3      | namesilo         |
 | msg.mom        | available | $1.99     | —             | high           | low    | 3      | name.com         |
-| flit.ai        | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.  |
-| ink.bike       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
-| pan.gives      | available | $5.99     | —             | high           | low    | 3      | name.com         |
-| fuel.bar       | resell    | —         | —             | high           | low    | 4      | GoDaddy          |
+| bash.wtf       | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Verb Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Verb Domains*. Version 2026-09-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
