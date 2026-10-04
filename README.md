@@ -1,10 +1,10 @@
-# Available One-Word Verb Domains (1,866,216)
+# Available One-Word Verb Domains (1,932,563)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C866%2C216%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-1%2C932%2C563%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 1,130,704 available one-word verb domains spanning 506 TLDs, with a median ask of $279.65. Most names fall under $500, and .expert, .ninja, .zone, .gg, and .space carry the deepest inventory. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **1,866,216 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **1,932,563 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 1,866,216 domains · **Median ask:** $205.32 · **High-demand under $2,500:** 8,755
+**Public extract:** 1,000 rows · **Live catalog:** 1,932,563 domains · **Median ask:** $202.53 · **High-demand under $2,500:** 8,352
 
-**Last updated:** 2026-10-03
+**Last updated:** 2026-10-04
 **Canonical page:** `https://unique.domains/domains/actionable`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| bag.realty      | available | $99.80    | $456.98       | high           | low    | 3      | namecheap                                                          |
-| reduce.health   | resell    | $89.99    | $103.99       | high           | low    | 6      | Spaceship, Inc.                                                    |
-| fax.horse       | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                           |
-| eel.soccer      | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare                                                         |
-| remote.autos    | resell    | $684.64   | —             | high           | medium | 6      | NameCheap, Inc.                                                    |
-| hie.blog        | premium   | $1,625    | $6,500        | medium         | low    | 3      | namecheap                                                          |
-| fax.luxury      | available | $26.97    | $26.97        | high           | low    | 3      | dynadot                                                            |
-| firm.eu         | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
-| leg.accountant  | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship                                                          |
-| gip.attorney    | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo                                                           |
-| foil.solutions  | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
-| maa.mobile      | premium   | $310.70   | $310.70       | high           | low    | 3      | spaceship                                                          |
-| hut.barcelona   | available | $38.98    | $38.98        | high           | low    | 3      | namecheap                                                          |
-| ship.dance      | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                                   |
-| mud.cooking     | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                                                          |
-| hut.protection  | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo                                                           |
-| soup.us         | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
-| owe.page        | premium   | $61.27    | $61.27        | high           | low    | 3      | spaceship                                                          |
-| igg.productions | available | $10.50    | —             | high           | low    | 3      | unstoppable                                                        |
-| wink.best       | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                                        |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
+| aah.properties | available | $6.10     | $32.21        | high           | low    | 3      | dynadot                                                            |
+| reduce.health  | resell    | $89.99    | $103.99       | high           | low    | 6      | Spaceship, Inc.                                                    |
+| fax.horse      | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                           |
+| bag.realty     | available | $99.80    | $456.98       | high           | low    | 3      | namecheap                                                          |
+| remote.autos   | resell    | $684.64   | —             | high           | medium | 6      | NameCheap, Inc.                                                    |
+| hie.blog       | premium   | $1,625    | $6,500        | medium         | low    | 3      | namecheap                                                          |
+| eel.soccer     | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare                                                         |
+| firm.eu        | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
+| leg.accountant | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship                                                          |
+| fax.luxury     | available | $26.97    | $26.97        | high           | low    | 3      | dynadot                                                            |
+| foil.solutions | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
+| mud.cooking    | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                                                          |
+| gip.attorney   | available | $62.99    | $62.99        | medium         | low    | 3      | namesilo                                                           |
+| ship.dance     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                                   |
+| owe.page       | premium   | $61.27    | $61.27        | high           | low    | 3      | spaceship                                                          |
+| hut.barcelona  | available | $38.98    | $38.98        | high           | low    | 3      | namecheap                                                          |
+| soup.us        | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
+| pot.fail       | premium   | $85.80    | $85.80        | high           | low    | 3      | namecheap                                                          |
+| hut.protection | available | $1,999.99 | $2,049.99     | high           | low    | 3      | namesilo                                                           |
+| wink.best      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 1,866,216 live domains                               |
+| 1,000-row public sample | 1,932,563 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 8,755 high-demand names under $2,500                 |
+| Basic exported fields   | 8,352 high-demand names under $2,500                 |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Verb Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Verb Domains*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
