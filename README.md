@@ -16,7 +16,7 @@ This selection covers 1,130,704 available one-word verb domains spanning 506 TLD
 
 **Public extract:** 1,000 rows · **Live catalog:** 1,932,563 domains · **Median ask:** $202.53 · **High-demand under $2,500:** 8,352
 
-**Last updated:** 2026-10-04
+**Last updated:** 2026-10-06
 **Canonical page:** `https://unique.domains/domains/actionable`
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,7 @@ print(df.head())
 | aah.properties | available | $6.10     | $32.21        | high           | low    | 3      | dynadot                                                            |
 | reduce.health  | resell    | $89.99    | $103.99       | high           | low    | 6      | Spaceship, Inc.                                                    |
 | fax.horse      | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                           |
-| bag.realty     | available | $99.80    | $456.98       | high           | low    | 3      | namecheap                                                          |
+| bag.realty     | available | $88.18    | $289.16       | high           | low    | 3      | spaceship                                                          |
 | remote.autos   | resell    | $684.64   | —             | high           | medium | 6      | NameCheap, Inc.                                                    |
 | hie.blog       | premium   | $1,625    | $6,500        | medium         | low    | 3      | namecheap                                                          |
 | eel.soccer     | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare                                                         |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Verb Domains*. Version 2026-10-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Verb Domains*. Version 2026-10-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
