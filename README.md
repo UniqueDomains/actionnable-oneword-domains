@@ -1,10 +1,10 @@
-# Available One-Word Verb Domains (2,182,377)
+# Available One-Word Verb Domains (2,219,958)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-2%2C182%2C377%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-2%2C219%2C958%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection covers 1,130,704 available one-word verb domains spanning 506 TLDs, with a median ask of $279.65. Most names fall under $500, and .expert, .ninja, .zone, .gg, and .space carry the deepest inventory. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **2,182,377 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **2,219,958 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 2,182,377 domains · **Median ask:** $191.22 · **High-demand under $2,500:** 9,821
+**Public extract:** 1,000 rows · **Live catalog:** 2,219,958 domains · **Median ask:** $190.50 · **High-demand under $2,500:** 10,156
 
-**Last updated:** 2026-10-09
+**Last updated:** 2026-10-10
 **Canonical page:** `https://unique.domains/domains/actionable`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
 | aah.properties | available | $6.10     | $32.21        | high           | low    | 3      | dynadot                                                            |
 | reduce.health  | resell    | $89.99    | $103.99       | high           | low    | 6      | Spaceship, Inc.                                                    |
-| fax.horse      | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                           |
+| ack.miami      | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                           |
 | bag.realty     | available | $88.18    | $289.16       | high           | low    | 3      | spaceship                                                          |
 | remote.autos   | resell    | $684.64   | —             | high           | medium | 6      | NameCheap, Inc.                                                    |
-| hie.blog       | premium   | $1,625    | $6,500        | medium         | low    | 3      | namecheap                                                          |
+| fax.horse      | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                           |
 | dos.dentist    | available | $71.98    | $91.98        | high           | low    | 3      | namecheap                                                          |
 | pot.nyc        | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com          |
-| leg.accountant | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship                                                          |
+| hie.blog       | premium   | $1,625    | $6,500        | medium         | low    | 3      | namecheap                                                          |
 | eel.soccer     | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare                                                         |
 | firm.eu        | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
-| mud.cooking    | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                                                          |
+| leg.accountant | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship                                                          |
 | fax.luxury     | available | $26.97    | $26.97        | high           | low    | 3      | dynadot                                                            |
 | foil.solutions | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
-| orp.study      | premium   | $640      | $640          | medium         | low    | 3      | namesilo                                                           |
+| mud.cooking    | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                                                          |
 | gaf.hair       | available | $1.24     | $13.97        | high           | low    | 3      | spaceship                                                          |
 | ship.dance     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                                   |
-| owe.page       | premium   | $61.27    | $61.27        | high           | low    | 3      | spaceship                                                          |
+| orp.study      | premium   | $640      | $640          | medium         | low    | 3      | namesilo                                                           |
 | gaf.vc         | available | $32.98    | $41.98        | high           | low    | 3      | namecheap                                                          |
 | soup.us        | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 2,182,377 live domains                               |
+| 1,000-row public sample | 2,219,958 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 9,821 high-demand names under $2,500                 |
+| Basic exported fields   | 10,156 high-demand names under $2,500                |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Verb Domains*. Version 2026-10-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Verb Domains*. Version 2026-10-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
