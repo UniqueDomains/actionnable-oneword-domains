@@ -72,7 +72,7 @@ print(df.head())
 | fax.horse      | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                           |
 | cun.media      | available | $5.98     | $65.98        | medium         | low    | 3      | namecheap                                                          |
 | pot.nyc        | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com          |
-| hie.blog       | premium   | $1,625    | $6,500        | medium         | low    | 3      | namecheap                                                          |
+| hie.blog       | premium   | $1,625    | $6,500        | high           | low    | 3      | namecheap                                                          |
 | dos.dentist    | available | $71.98    | $91.98        | high           | low    | 3      | namecheap                                                          |
 | firm.eu        | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
 | leg.accountant | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship                                                          |
