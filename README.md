@@ -16,7 +16,7 @@ This selection covers 1,130,704 available one-word verb domains spanning 506 TLD
 
 **Public extract:** 1,000 rows · **Live catalog:** 2,303,648 domains · **Median ask:** $187.26 · **High-demand under $2,500:** 10,732
 
-**Last updated:** 2026-10-12
+**Last updated:** 2026-10-14
 **Canonical page:** `https://unique.domains/domains/actionable`
 **Best for:** founders, investors, studios
 
@@ -72,17 +72,17 @@ print(df.head())
 | fax.horse      | premium   | $512      | $29.50        | high           | low    | 3      | namesilo                                                           |
 | cun.media      | available | $5.98     | $65.98        | medium         | low    | 3      | namecheap                                                          |
 | pot.nyc        | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com          |
-| hie.blog       | premium   | $1,625    | $6,500        | high           | low    | 3      | namecheap                                                          |
-| dos.dentist    | available | $71.98    | $91.98        | high           | low    | 3      | namecheap                                                          |
+| hie.blog       | premium   | $1,625    | $6,500        | medium         | low    | 3      | namecheap                                                          |
+| dnf.hockey     | available | $47.81    | $47.81        | high           | low    | 3      | spaceship                                                          |
 | firm.eu        | resell    | —         | —             | high           | low    | 4      | Name: Dynadot, LLC Website: https://www.dynadot.com/domain/eu.html |
 | leg.accountant | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship                                                          |
-| eel.soccer     | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare                                                         |
+| dos.dentist    | available | $71.98    | $91.98        | high           | low    | 3      | namecheap                                                          |
 | foil.solutions | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC                                                   |
 | mud.cooking    | premium   | $52       | $32.50        | high           | low    | 3      | namecheap                                                          |
-| eep.vote       | available | $34.99    | $90.99        | high           | low    | 3      | namesilo                                                           |
+| eel.soccer     | available | $20.20    | $20.20        | high           | low    | 3      | cloudflare                                                         |
 | ship.dance     | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC                                                   |
 | orp.study      | premium   | $640      | $640          | medium         | low    | 3      | namesilo                                                           |
-| fax.luxury     | available | $26.97    | $26.97        | high           | low    | 3      | dynadot                                                            |
+| eep.vote       | available | $34.99    | $90.99        | high           | low    | 3      | namesilo                                                           |
 | wink.best      | resell    | —         | —             | high           | low    | 4      | Dynadot Inc                                                        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Verb Domains*. Version 2026-10-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Verb Domains*. Version 2026-10-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
