@@ -67,7 +67,7 @@ print(df.head())
 | aah.properties | available | $6.10     | $32.21        | high           | low    | 3      | dynadot                                                            |
 | remote.autos   | resell    | $684.64   | —             | high           | medium | 6      | NameCheap, Inc.                                                    |
 | ack.miami      | premium   | $47.20    | $21.24        | high           | low    | 3      | namesilo                                                           |
-| bag.realty     | available | $88.18    | $289.16       | high           | low    | 3      | spaceship                                                          |
+| bag.realty     | available | $109.99   | $299          | high           | low    | 3      | namesilo                                                           |
 | pot.nyc        | resell    | —         | —             | high           | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com          |
 | bab.garden     | premium   | $520      | $32.50        | high           | low    | 3      | namecheap                                                          |
 | cun.media      | available | $5.98     | $65.98        | medium         | low    | 3      | namecheap                                                          |
