@@ -1,6 +1,6 @@
-# Actionable One-Word Domains (~2,610,000)
+# Actionable One-Word Domains (~2,490,000)
 
-~2,610,000 names in this list today, refreshed every night.
+~2,490,000 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/actionable](https://unique.domains/domains/actionable?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_page)
 
@@ -41,9 +41,9 @@ The first 20 rows of the file, in the file's order.
 | dingo.equipment      | available | $22.20         | $22.20        | high           | low    | 5      |
 | rescale.forex        | available | $10.55         | $83           | high           | low    | 7      |
 | neutralize.ac        | available | $25.88         | $46.58        | high           | low    | 10     |
-| bork.protection      | available | $2,000.20      | $2,000.20     | medium         | low    | 4      |
 | decrease.guitars     | available | $100.20        | $100.20       | medium         | low    | 8      |
 | sheath.bar           | available | $3.49          | $54.99        | high           | low    | 6      |
+| godfather.casa       | available | $1.54          | $10.81        | high           | low    | 9      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~2,610,000 names in the live list today.
+- The files hold 1,000 rows of the ~2,490,000 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
