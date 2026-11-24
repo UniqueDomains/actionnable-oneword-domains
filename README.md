@@ -22,6 +22,8 @@ df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/actionnable-on
 print(df.head())
 ```
 
+Also on Kaggle, with every list: [One-Word Domains: Brandable, Short and More](https://www.kaggle.com/datasets/uniquedomains/one-word-domain-lists).
+
 ## Sample rows
 
 The first 20 rows of the file, in the file's order.
