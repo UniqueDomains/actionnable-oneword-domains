@@ -1,10 +1,10 @@
-# Actionable One-Word Domains (~2,550,000)
+# Actionable One-Word Domains (~2,490,000)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_home).
 
 1,000 real actionable one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/actionable) holds ~2,550,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/actionable) holds ~2,490,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/actionable](https://unique.domains/domains/actionable?utm_source=github&utm_medium=referral&utm_campaign=repo_actionnable_oneword_domains&utm_content=top_page)
 
@@ -41,6 +41,7 @@ The first 20 rows of the file, in the file's order.
 | justify.wine         | available | $9.50          | $59.99        | high           | low    | 7      |
 | bottleneck.vip       | premium   | $224           | $17.70        | medium         | low    | 10     |
 | categorise.directory | available | $8.99          | $32.99        | high           | low    | 10     |
+| veganify.life        | available | $3             | —             | high           | low    | 8      |
 | alleviate.organic    | available | $17            | —             | high           | low    | 9      |
 | willey.industries    | available | $45.99         | $45.99        | medium         | low    | 6      |
 | lask.lease           | available | $58.98         | $73.98        | high           | low    | 4      |
@@ -49,7 +50,6 @@ The first 20 rows of the file, in the file's order.
 | neutralize.ac        | available | $25.88         | $46.58        | high           | low    | 10     |
 | decrease.guitars     | available | $100.20        | $100.20       | medium         | low    | 8      |
 | sheath.bar           | available | $3.49          | $54.99        | high           | low    | 6      |
-| godfather.casa       | available | $1.54          | $10.81        | high           | low    | 9      |
 
 ## What is in the data
 
@@ -68,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~2,550,000 names in the live list today.
+- The files hold 1,000 rows of the ~2,490,000 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
